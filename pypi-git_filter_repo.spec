@@ -5,7 +5,7 @@
 #
 Name     : pypi-git_filter_repo
 Version  : 2.38.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/70/99/37da3374977fb5e0915064718e58715666a395a614c42532a89d6164d958/git-filter-repo-2.38.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/70/99/37da3374977fb5e0915064718e58715666a395a614c42532a89d6164d958/git-filter-repo-2.38.0.tar.gz
 Summary  : Quickly rewrite git repository history
